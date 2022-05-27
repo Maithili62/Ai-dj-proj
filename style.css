@@ -1,0 +1,42 @@
+body
+{
+    background-size: cover;
+    color: white;
+    font-family:cursive;
+    font-weight: bolder;
+}
+
+.heading
+{
+    color: black;
+    font-size: 35px;
+    width: 100%;
+    margin: 0px;
+    padding: 15px;
+}
+
+.disk
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.note
+{
+    font-size: 25px;
+    color: black;
+}
+
+#song_name
+{
+    width: 304px;
+    height: 42px;
+    font-weight: bolder;
+    font-size: 24px;
+}
+
+canvas
+{
+    border: 18px black ridge;
+    border-radius: 20px;
+}
